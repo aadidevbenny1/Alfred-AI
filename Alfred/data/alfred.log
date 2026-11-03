@@ -1,0 +1,21 @@
+[2026-11-03 23:08:57] [INFO] [alfred:main] ============================================================
+[2026-11-03 23:08:57] [INFO] [alfred:main] Initializing Alfred Personal AI Desktop Assistant v1.0.0
+[2026-11-03 23:08:57] [INFO] [alfred:main] Project Root: C:\Users\aadid\OneDrive\Desktop\Alfred
+[2026-11-03 23:08:57] [INFO] [alfred:main] Configured Wake Phrases: ['alfred', 'hey alfred']
+[2026-11-03 23:08:57] [INFO] [alfred:main] Gemini Model: gemini-2.5-flash (Configured: False)
+[2026-11-03 23:08:57] [INFO] [alfred:main] ElevenLabs Voice: pNInz6obpgDQGcFmaJgB (Configured: False)
+[2026-11-03 23:08:57] [INFO] [alfred:main] Financial News: rss (Configured: True)
+[2026-11-03 23:08:57] [INFO] [alfred:main] Daily Briefing: True at 08:30 (Asia/Kolkata)
+[2026-11-03 23:08:57] [INFO] [alfred:main] ============================================================
+[2026-11-03 23:08:57] [INFO] [alfred.image_manager:image_manager] ImageManager initialized. Loaded 7/7 images from C:\Users\aadid\OneDrive\Desktop\Alfred\assets
+[2026-11-03 23:08:57] [INFO] [alfred.ui.floating_window:floating_window] Positioned Alfred window at top center: (560, 15)
+[2026-11-03 23:08:58] [INFO] [alfred.ai.gemini:gemini_client] Gemini API key is not configured. Assistant will inform user gracefully.
+[2026-11-03 23:08:58] [INFO] [alfred.app:app] Starting Alfred Assistant...
+[2026-11-03 23:08:58] [INFO] [alfred.voice.wake_word:wake_word] Wake word detector started for phrases: ['alfred', 'hey alfred']
+[2026-11-03 23:08:58] [INFO] [alfred.services.briefing:briefing] Daily briefing scheduled for 08:30 in timezone Asia/Kolkata
+[2026-11-03 23:08:58] [INFO] [alfred.state_controller:state_controller] State changed: IDLE -> Image: v smoking.png | Status: ''
+[2026-11-03 23:08:58] [INFO] [alfred.app:app] Alfred is active and standing by at top center.
+[2026-11-03 23:09:10] [INFO] [alfred.ui.floating_window:floating_window] Positioned Alfred window at top center: (560, 15)
+[2026-11-03 23:09:11] [INFO] [alfred.ui.floating_window:floating_window] Positioned Alfred window at top center: (560, 15)
+[2026-11-03 23:09:33] [INFO] [alfred.ui.floating_window:floating_window] Positioned Alfred window at top center: (560, 15)
+[2026-11-03 23:09:34] [INFO] [alfred.ui.floating_window:floating_window] Positioned Alfred window at top center: (560, 15)

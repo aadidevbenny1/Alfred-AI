@@ -1,0 +1,2 @@
+"""Alfred Test Suite."""
+
